@@ -10,5 +10,6 @@ Camera Effects
 
 This is my Camera Effects Project.
 
+![juan](https://github.com/juannegrete/juannegrete.github.io/blob/master/juan.PNG?raw=true "Optional Title")
 
-https://github.com/juannegrete/juannegrete.github.io/blob/master/juan.PNG
+
